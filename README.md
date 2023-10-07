@@ -8,7 +8,9 @@ based on comparing these various approaches with a cen-
 tralized baseline done with the IDDA Dataset. Moreover,
 we explore the application of a novel approach, Federated
 source-Free Domain Adaptation (FFreeDA), testing it with
-different parameters to gain deeper insights
+different parameters to gain deeper insights.
+
+An in depth report is available at report.pdf
 
 ## Setup
 #### Environment
