@@ -10,7 +10,7 @@ we explore the application of a novel approach, Federated
 source-Free Domain Adaptation (FFreeDA), testing it with
 different parameters to gain deeper insights.
 
-An in depth report is available at report.pdf
+An in depth report is available in the file _report.pdf_
 
 ## Setup
 #### Environment
