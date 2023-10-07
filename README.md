@@ -2,8 +2,7 @@
 ### Machine Learning and Deep Learning a.a. 2022/2023
 #### Politecnico di Torino
 
-In this project we present an analysis of various sce-
-narios of Semantic Segmentation and Federated Learning
+In this project we present an analysis of various scenarios of Semantic Segmentation and Federated Learning
 implementations for autonomous driving. The analysis is
 based on comparing these various approaches with a cen-
 tralized baseline done with the IDDA Dataset. Moreover,
